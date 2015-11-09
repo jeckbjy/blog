@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackbjy blog</title>
+    <link>http://jeckbjy.github.io/blog/</link>
+    <description>Recent content on Jackbjy blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-ch</language>
+    <lastBuildDate>Mon, 09 Nov 2015 10:55:52 +0800</lastBuildDate>
+    <atom:link href="http://jeckbjy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://jeckbjy.github.io/blog/post/test/</link>
+      <pubDate>Mon, 09 Nov 2015 10:55:52 +0800</pubDate>
+      
+      <guid>http://jeckbjy.github.io/blog/post/test/</guid>
+      <description>&lt;p&gt;asdfasgasgasgd
+asfasfd
+asdfasdfasdf&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

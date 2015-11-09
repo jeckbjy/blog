@@ -1,0 +1,4 @@
+baseurl = "http://jeckbjy.github.io/blog/"
+languageCode = "zh-ch"
+title = "Jackbjy blog"
+theme = "hyde"
