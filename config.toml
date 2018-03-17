@@ -1,4 +1,53 @@
-baseurl = "http://jeckbjy.github.io/blog/"
+baseurl = "https://jeckbjy.github.io/blog/"
 languageCode = "zh-ch"
-title = "Jackbjy blog"
+title = "小胖空间"
 theme = "hyde"
+
+[author]
+name = "jeckbjy"
+# email will use for gravatar
+email = "jeckbjy@163.com"
+
+[taxonomies]
+category = "categories"
+
+[params]
+# site description, will show under navigation
+description = "代码搬运工"
+# themeColor = "theme-base-08"
+# home = "home"
+
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+# subscribe_rss = "/index.xml"
+# subscribe_email = ""
+
+# social links
+github = "jeckbjy"
+# facebook_user = ""
+# googleplus_user = ""
+# twitter_user = ""
+# github_user = "jeckbjy"
+# coderwall_user = ""
+# stackoverflow_user = ""
+# stackoverflow_user_id = ""
+# linkedin_user = ""
+# pinterest_user = ""
+# delicious_user = ""
+# pinboard_user = ""
+# quora_user = ""
+# instagram_user = ""
+# behance_user = ""
+# douban_user = ""
+
+# share links
+# facebook_like = true
+# twitter_tweet_button = true
+# google_plus_one = "true"
+# addthis_profile_id = ""
+
+# Disqus Comments
+# disqus_short_name = ""
+# disqus_show_comment_count = false
+
+# google analytics
+# google_analytics_tracking_id = ""

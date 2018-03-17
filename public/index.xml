@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jackbjy blog</title>
-    <link>http://jeckbjy.github.io/blog/</link>
-    <description>Recent content on Jackbjy blog</description>
+    <title>小胖空间</title>
+    <link>https://jeckbjy.github.io/blog/</link>
+    <description>Recent content on 小胖空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-ch</language>
-    <lastBuildDate>Mon, 09 Nov 2015 10:55:52 +0800</lastBuildDate>
-    <atom:link href="http://jeckbjy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>jeckbjy@163.com (jeckbjy)</managingEditor>
+    <webMaster>jeckbjy@163.com (jeckbjy)</webMaster>
+    <lastBuildDate>Sat, 17 Mar 2018 16:22:32 +0800</lastBuildDate>
+    <atom:link href="https://jeckbjy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
-      <link>http://jeckbjy.github.io/blog/post/test/</link>
-      <pubDate>Mon, 09 Nov 2015 10:55:52 +0800</pubDate>
-      
-      <guid>http://jeckbjy.github.io/blog/post/test/</guid>
-      <description>&lt;p&gt;asdfasgasgasgd
-asfasfd
-asdfasdfasdf&lt;/p&gt;
+      <title>hugo使用测试</title>
+      <link>https://jeckbjy.github.io/blog/post/hugo/</link>
+      <pubDate>Sat, 17 Mar 2018 16:22:32 +0800</pubDate>
+      <author>jeckbjy@163.com (jeckbjy)</author>
+      <guid>https://jeckbjy.github.io/blog/post/hugo/</guid>
+      <description>
+
+&lt;h1 id=&#34;hugo使用测试:32ab7241d48fcc174c877413a917f8cf&#34;&gt;hugo使用测试&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;官网:&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;中文:&lt;a href=&#34;http://www.gohugo.org/&#34;&gt;http://www.gohugo.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;常用命令:32ab7241d48fcc174c877413a917f8cf&#34;&gt;常用命令&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;生成站点:hugo new site /path/to/site&lt;/li&gt;
+&lt;li&gt;新建文档:hugo new about.md&lt;/li&gt;
+&lt;li&gt;运行调试:hugo server &amp;ndash;theme=hyde &amp;ndash;buildDrafts&lt;/li&gt;
+&lt;li&gt;生成部署:hugo &amp;ndash;theme=hyde &amp;ndash;baseUrl=&amp;ldquo;&lt;a href=&#34;http://coderzh.github.io/&amp;quot;&#34;&gt;http://coderzh.github.io/&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
